@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>
+            <h2>Caixa Eletrônico</h2>
+            <form method="get" action="operarConta.php">
+                Agência<br>
+                <input type="text" name="numAg"><br><br>
+                Conta<br>
+                <input type="text" name="numConta"><br><br>
+                Tipo de Conta<br>
+                <input type="radio" name="tpConta" value="cc" checked> Corrente
+                <input type="radio" name="tpConta" value="cp"> Poupança<br><br>
+                Operação<br>
+                <input type="radio" name="op" value="dep" checked> Depósito
+                <input type="radio" name="op" value="sac"> Saque<br><br>
+                Valor<br>
+                <input type="text" name="valor"> R$<br><br>           
+                <input type="submit" value="Confirmar">
+            </form>
+        </div>
+    </body>
+</html>
