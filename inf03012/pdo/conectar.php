@@ -22,7 +22,6 @@ try {
     
     echo 'Conexão estabelecida com sucesso.';
 
-    
 } catch (Exception $ex) {
     # Captura a exceção lançada
     echo 'Falha na conexão: '.$ex->getMessage();

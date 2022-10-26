@@ -4,20 +4,28 @@
  * PHP Data Objects (PDO)
  ************************************/
 
+# DADOS DA CONEXÃO
 const HOST      = "localhost";
 const PORT      = "3306";
 const DBNAME    = "bdensino";
 const USERNAME  = "root";
 const PASSWORD  = "if@2022";
 
+# BLOCO (try_catch) PARA TRATAMENTO DE EXCEÇÕES
 try {  
+    
+    # CRIA UM NOVO "OBJETO DE CONEXÃO" DA CLASSE PDO
     $conexao = new PDO("mysql:host=".HOST.";port=".PORT.";dbname=".DBNAME, USERNAME, PASSWORD);
+    
+    # DEFINE A ESTRATÉGIA PARA CONTROLE DE ERROS (ver opções abaixo)
     $conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         
     # DEFINE O SCRIPT SQL A SER EXECUTADO
     $sql = "SELECT * FROM tbCurso";
+    
     # PREPARA A EXECUÇÃO
     $stm = $conexao->prepare($sql);
+    
     # EXECUTA O SCRIPT DEFINIDO, RETORNANDO UM ARRAY
     $stm->execute();
 
