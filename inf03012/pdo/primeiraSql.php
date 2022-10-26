@@ -15,7 +15,7 @@ try {
     $conexao->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         
     # DEFINE O SCRIPT SQL A SER EXECUTADO
-    $sql = "SELECT * FROM tbCurso WHERE idCurso = 5";
+    $sql = "SELECT * FROM tbCurso WHERE idCurso";
     # EXECUTA O SCRIPT DEFINIDO, RETORNANDO UM ARRAY
     $dados = $conexao->query($sql);
 
