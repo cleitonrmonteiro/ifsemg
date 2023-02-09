@@ -1,2 +1,0 @@
-# ifsemg
-IF Sudeste MG
