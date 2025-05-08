@@ -1,0 +1,14 @@
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.Form1.resources
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.frmConfig.resources
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.Properties.Resources.resources
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.csproj.GenerateResource.Cache
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\bin\Release\PROJ_EXT_17_V10.exe
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\bin\Release\PROJ_EXT_17_V10.pdb
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\bin\Release\System.Data.SQLite.dll
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\bin\Release\System.Data.SQLite.pdb
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.exe
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.pdb
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.frmAbout.resources
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.frmTempDiaria.resources
+C:\Users\Cleiton\Documents\Visual Studio 2008\Projects\PROJ_EXT_17_V10\PROJ_EXT_17_V10\obj\Release\PROJ_EXT_17_V10.Form2.resources
